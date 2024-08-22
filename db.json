@@ -1,0 +1,1142 @@
+{
+  "result": "success",
+  "documentation": "https://www.exchangerate-api.com/docs",
+  "terms_of_use": "https://www.exchangerate-api.com/terms",
+  "time_last_update_unix": 1724284801,
+  "time_last_update_utc": "Thu, 22 Aug 2024 00:00:01 +0000",
+  "time_next_update_unix": 1724371201,
+  "time_next_update_utc": "Fri, 23 Aug 2024 00:00:01 +0000",
+  "base_code": "USD",
+  "conversion_rates": {
+    "USD": 1,
+    "AED": 3.6725,
+    "AFN": 70.6295,
+    "ALL": 89.6145,
+    "AMD": 388.2668,
+    "ANG": 1.79,
+    "AOA": 909.5073,
+    "ARS": 945.33,
+    "AUD": 1.4823,
+    "AWG": 1.79,
+    "AZN": 1.6996,
+    "BAM": 1.7559,
+    "BBD": 2,
+    "BDT": 119.2299,
+    "BGN": 1.7563,
+    "BHD": 0.376,
+    "BIF": 2879.3435,
+    "BMD": 1,
+    "BND": 1.3058,
+    "BOB": 6.917,
+    "BRL": 5.4772,
+    "BSD": 1,
+    "BTN": 83.9098,
+    "BWP": 13.3296,
+    "BYN": 3.2307,
+    "BZD": 2,
+    "CAD": 1.3588,
+    "CDF": 2841.619,
+    "CHF": 0.8523,
+    "CLP": 924.1138,
+    "CNY": 7.1322,
+    "COP": 4007.6276,
+    "CRC": 519.9122,
+    "CUP": 24,
+    "CVE": 98.9918,
+    "CZK": 22.5251,
+    "DJF": 177.721,
+    "DKK": 6.6944,
+    "DOP": 59.6468,
+    "DZD": 133.9334,
+    "EGP": 48.8006,
+    "ERN": 15,
+    "ETB": 109.0715,
+    "EUR": 0.8978,
+    "FJD": 2.2154,
+    "FKP": 0.7649,
+    "FOK": 6.6945,
+    "GBP": 0.7649,
+    "GEL": 2.7045,
+    "GGP": 0.7649,
+    "GHS": 15.6509,
+    "GIP": 0.7649,
+    "GMD": 70.3703,
+    "GNF": 8642.0814,
+    "GTQ": 7.7317,
+    "GYD": 208.9767,
+    "HKD": 7.7934,
+    "HNL": 24.7396,
+    "HRK": 6.7642,
+    "HTG": 131.6051,
+    "HUF": 352.3341,
+    "IDR": 15484.3505,
+    "ILS": 3.7208,
+    "IMP": 0.7649,
+    "INR": 83.9023,
+    "IQD": 1308.195,
+    "IRR": 42007.0019,
+    "ISK": 137.1181,
+    "JEP": 0.7649,
+    "JMD": 157.1956,
+    "JOD": 0.709,
+    "JPY": 145.3125,
+    "KES": 128.8197,
+    "KGS": 85.6986,
+    "KHR": 4074.8946,
+    "KID": 1.4823,
+    "KMF": 441.6702,
+    "KRW": 1334.1831,
+    "KWD": 0.3054,
+    "KYD": 0.8333,
+    "KZT": 478.2838,
+    "LAK": 21990.1993,
+    "LBP": 89500,
+    "LKR": 299.7448,
+    "LRD": 194.6205,
+    "LSL": 17.8447,
+    "LYD": 4.7738,
+    "MAD": 9.6874,
+    "MDL": 17.4318,
+    "MGA": 4563.4267,
+    "MKD": 55.3869,
+    "MMK": 2098.8341,
+    "MNT": 3409.4918,
+    "MOP": 8.0273,
+    "MRU": 39.7319,
+    "MUR": 46.0015,
+    "MVR": 15.4337,
+    "MWK": 1737.9413,
+    "MXN": 19.2645,
+    "MYR": 4.3786,
+    "MZN": 63.782,
+    "NAD": 17.8447,
+    "NGN": 1570.7925,
+    "NIO": 36.7579,
+    "NOK": 10.5006,
+    "NPR": 134.2557,
+    "NZD": 1.6244,
+    "OMR": 0.3845,
+    "PAB": 1,
+    "PEN": 3.7466,
+    "PGK": 3.9172,
+    "PHP": 56.4442,
+    "PKR": 278.7558,
+    "PLN": 3.8448,
+    "PYG": 7582.0323,
+    "QAR": 3.64,
+    "RON": 4.477,
+    "RSD": 105.2378,
+    "RUB": 91.5537,
+    "RWF": 1341.4246,
+    "SAR": 3.75,
+    "SBD": 8.4922,
+    "SCR": 14.4663,
+    "SDG": 543.4109,
+    "SEK": 10.1994,
+    "SGD": 1.3058,
+    "SHP": 0.7649,
+    "SLE": 22.4148,
+    "SLL": 22414.795,
+    "SOS": 570.7233,
+    "SRD": 29.3465,
+    "SSP": 2521.1413,
+    "STN": 21.9952,
+    "SYP": 12909.6865,
+    "SZL": 17.8447,
+    "THB": 34.242,
+    "TJS": 10.609,
+    "TMT": 3.4971,
+    "TND": 3.0444,
+    "TOP": 2.3282,
+    "TRY": 33.9422,
+    "TTD": 6.7619,
+    "TVD": 1.4823,
+    "TWD": 31.8354,
+    "TZS": 2697.6045,
+    "UAH": 41.3154,
+    "UGX": 3718.9431,
+    "UYU": 40.2094,
+    "UZS": 12630.2761,
+    "VES": 36.6484,
+    "VND": 24942.2786,
+    "VUV": 118.397,
+    "WST": 2.6959,
+    "XAF": 588.8935,
+    "XCD": 2.7,
+    "XDR": 0.743,
+    "XOF": 588.8935,
+    "XPF": 107.1318,
+    "YER": 250.0495,
+    "ZAR": 17.8428,
+    "ZMW": 25.8546,
+    "ZWL": 13.8044
+  },
+  "currencies": [
+    {
+      "currencyCode": "USD",
+      "currencyName": "United States Dollar",
+      "country": "United States",
+      "exchangeRate": 1
+    },
+    {
+      "currencyCode": "AED",
+      "currencyName": "UAE Dirham",
+      "country": "United Arab Emirates",
+      "exchangeRate": 3.6725
+    },
+    {
+      "currencyCode": "AFN",
+      "currencyName": "Afghan Afghani",
+      "country": "Afghanistan",
+      "exchangeRate": 70.6295
+    },
+    {
+      "currencyCode": "ALL",
+      "currencyName": "Albanian Lek",
+      "country": "Albania",
+      "exchangeRate": 89.6145
+    },
+    {
+      "currencyCode": "AMD",
+      "currencyName": "Armenian Dram",
+      "country": "Armenia",
+      "exchangeRate": 388.2668
+    },
+    {
+      "currencyCode": "ANG",
+      "currencyName": "Netherlands Antillian Guilder",
+      "country": "Netherlands Antilles",
+      "exchangeRate": 1.79
+    },
+    {
+      "currencyCode": "AOA",
+      "currencyName": "Angolan Kwanza",
+      "country": "Angola",
+      "exchangeRate": 909.5073
+    },
+    {
+      "currencyCode": "ARS",
+      "currencyName": "Argentine Peso",
+      "country": "Argentina",
+      "exchangeRate": 945.33
+    },
+    {
+      "currencyCode": "AUD",
+      "currencyName": "Australian Dollar",
+      "country": "Australia",
+      "exchangeRate": 1.4823
+    },
+    {
+      "currencyCode": "AWG",
+      "currencyName": "Aruban Florin",
+      "country": "Aruba",
+      "exchangeRate": 1.79
+    },
+    {
+      "currencyCode": "AZN",
+      "currencyName": "Azerbaijani Manat",
+      "country": "Azerbaijan",
+      "exchangeRate": 1.6996
+    },
+    {
+      "currencyCode": "BAM",
+      "currencyName": "Bosnia and Herzegovina Mark",
+      "country": "Bosnia and Herzegovina",
+      "exchangeRate": 1.7559
+    },
+    {
+      "currencyCode": "BBD",
+      "currencyName": "Barbados Dollar",
+      "country": "Barbados",
+      "exchangeRate": 2
+    },
+    {
+      "currencyCode": "BDT",
+      "currencyName": "Bangladeshi Taka",
+      "country": "Bangladesh",
+      "exchangeRate": 119.2299
+    },
+    {
+      "currencyCode": "BGN",
+      "currencyName": "Bulgarian Lev",
+      "country": "Bulgaria",
+      "exchangeRate": 1.7563
+    },
+    {
+      "currencyCode": "BHD",
+      "currencyName": "Bahraini Dinar",
+      "country": "Bahrain",
+      "exchangeRate": 0.376
+    },
+    {
+      "currencyCode": "BIF",
+      "currencyName": "Burundian Franc",
+      "country": "Burundi",
+      "exchangeRate": 2879.3435
+    },
+    {
+      "currencyCode": "BMD",
+      "currencyName": "Bermudian Dollar",
+      "country": "Bermuda",
+      "exchangeRate": 1
+    },
+    {
+      "currencyCode": "BND",
+      "currencyName": "Brunei Dollar",
+      "country": "Brunei",
+      "exchangeRate": 1.3058
+    },
+    {
+      "currencyCode": "BOB",
+      "currencyName": "Bolivian Boliviano",
+      "country": "Bolivia",
+      "exchangeRate": 6.917
+    },
+    {
+      "currencyCode": "BRL",
+      "currencyName": "Brazilian Real",
+      "country": "Brazil",
+      "exchangeRate": 5.4772
+    },
+    {
+      "currencyCode": "BSD",
+      "currencyName": "Bahamian Dollar",
+      "country": "Bahamas",
+      "exchangeRate": 1
+    },
+    {
+      "currencyCode": "BTN",
+      "currencyName": "Bhutanese Ngultrum",
+      "country": "Bhutan",
+      "exchangeRate": 83.9098
+    },
+    {
+      "currencyCode": "BWP",
+      "currencyName": "Botswana Pula",
+      "country": "Botswana",
+      "exchangeRate": 13.3296
+    },
+    {
+      "currencyCode": "BYN",
+      "currencyName": "Belarusian Ruble",
+      "country": "Belarus",
+      "exchangeRate": 3.2307
+    },
+    {
+      "currencyCode": "BZD",
+      "currencyName": "Belize Dollar",
+      "country": "Belize",
+      "exchangeRate": 2
+    },
+    {
+      "currencyCode": "CAD",
+      "currencyName": "Canadian Dollar",
+      "country": "Canada",
+      "exchangeRate": 1.3588
+    },
+    {
+      "currencyCode": "CDF",
+      "currencyName": "Congolese Franc",
+      "country": "Democratic Republic of the Congo",
+      "exchangeRate": 2841.619
+    },
+    {
+      "currencyCode": "CHF",
+      "currencyName": "Swiss Franc",
+      "country": "Switzerland",
+      "exchangeRate": 0.8523
+    },
+    {
+      "currencyCode": "CLP",
+      "currencyName": "Chilean Peso",
+      "country": "Chile",
+      "exchangeRate": 924.1138
+    },
+    {
+      "currencyCode": "CNY",
+      "currencyName": "Chinese Renminbi",
+      "country": "China",
+      "exchangeRate": 7.1322
+    },
+    {
+      "currencyCode": "COP",
+      "currencyName": "Colombian Peso",
+      "country": "Colombia",
+      "exchangeRate": 4007.6276
+    },
+    {
+      "currencyCode": "CRC",
+      "currencyName": "Costa Rican Colon",
+      "country": "Costa Rica",
+      "exchangeRate": 519.9122
+    },
+    {
+      "currencyCode": "CUP",
+      "currencyName": "Cuban Peso",
+      "country": "Cuba",
+      "exchangeRate": 24
+    },
+    {
+      "currencyCode": "CVE",
+      "currencyName": "Cape Verdean Escudo",
+      "country": "Cape Verde",
+      "exchangeRate": 98.9918
+    },
+    {
+      "currencyCode": "CZK",
+      "currencyName": "Czech Koruna",
+      "country": "Czech Republic",
+      "exchangeRate": 22.5251
+    },
+    {
+      "currencyCode": "DJF",
+      "currencyName": "Djiboutian Franc",
+      "country": "Djibouti",
+      "exchangeRate": 177.721
+    },
+    {
+      "currencyCode": "DKK",
+      "currencyName": "Danish Krone",
+      "country": "Denmark",
+      "exchangeRate": 6.6944
+    },
+    {
+      "currencyCode": "DOP",
+      "currencyName": "Dominican Peso",
+      "country": "Dominican Republic",
+      "exchangeRate": 59.6468
+    },
+    {
+      "currencyCode": "DZD",
+      "currencyName": "Algerian Dinar",
+      "country": "Algeria",
+      "exchangeRate": 133.9334
+    },
+    {
+      "currencyCode": "EGP",
+      "currencyName": "Egyptian Pound",
+      "country": "Egypt",
+      "exchangeRate": 48.8006
+    },
+    {
+      "currencyCode": "ERN",
+      "currencyName": "Eritrean Nakfa",
+      "country": "Eritrea",
+      "exchangeRate": 15
+    },
+    {
+      "currencyCode": "ETB",
+      "currencyName": "Ethiopian Birr",
+      "country": "Ethiopia",
+      "exchangeRate": 109.0715
+    },
+    {
+      "currencyCode": "EUR",
+      "currencyName": "Euro",
+      "country": "European Union",
+      "exchangeRate": 0.8978
+    },
+    {
+      "currencyCode": "FJD",
+      "currencyName": "Fiji Dollar",
+      "country": "Fiji",
+      "exchangeRate": 2.2154
+    },
+    {
+      "currencyCode": "FKP",
+      "currencyName": "Falkland Islands Pound",
+      "country": "Falkland Islands",
+      "exchangeRate": 0.7649
+    },
+    {
+      "currencyCode": "FOK",
+      "currencyName": "Faroese Króna",
+      "country": "Faroe Islands",
+      "exchangeRate": 6.6945
+    },
+    {
+      "currencyCode": "GBP",
+      "currencyName": "British Pound",
+      "country": "United Kingdom",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "GEL",
+      "currencyName": "Georgian Lari",
+      "country": "Georgia",
+      "exchangeRate": 2.62
+    },
+    {
+      "currencyCode": "GGP",
+      "currencyName": "Guernsey Pound",
+      "country": "Guernsey",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "GHS",
+      "currencyName": "Ghanaian Cedi",
+      "country": "Ghana",
+      "exchangeRate": 11.1002
+    },
+    {
+      "currencyCode": "GIP",
+      "currencyName": "Gibraltar Pound",
+      "country": "Gibraltar",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "GMD",
+      "currencyName": "Gambian Dalasi",
+      "country": "Gambia",
+      "exchangeRate": 63.5944
+    },
+    {
+      "currencyCode": "GNF",
+      "currencyName": "Guinean Franc",
+      "country": "Guinea",
+      "exchangeRate": 8727.3684
+    },
+    {
+      "currencyCode": "GTQ",
+      "currencyName": "Guatemalan Quetzal",
+      "country": "Guatemala",
+      "exchangeRate": 7.8391
+    },
+    {
+      "currencyCode": "GYD",
+      "currencyName": "Guyanese Dollar",
+      "country": "Guyana",
+      "exchangeRate": 212.5695
+    },
+    {
+      "currencyCode": "HKD",
+      "currencyName": "Hong Kong Dollar",
+      "country": "Hong Kong",
+      "exchangeRate": 7.8205
+    },
+    {
+      "currencyCode": "HNL",
+      "currencyName": "Honduran Lempira",
+      "country": "Honduras",
+      "exchangeRate": 24.7953
+    },
+    {
+      "currencyCode": "HRK",
+      "currencyName": "Croatian Kuna",
+      "country": "Croatia",
+      "exchangeRate": 6.759
+    },
+    {
+      "currencyCode": "HTG",
+      "currencyName": "Haitian Gourde",
+      "country": "Haiti",
+      "exchangeRate": 139.1511
+    },
+    {
+      "currencyCode": "HUF",
+      "currencyName": "Hungarian Forint",
+      "country": "Hungary",
+      "exchangeRate": 342.1728
+    },
+    {
+      "currencyCode": "IDR",
+      "currencyName": "Indonesian Rupiah",
+      "country": "Indonesia",
+      "exchangeRate": 15310.385
+    },
+    {
+      "currencyCode": "ILS",
+      "currencyName": "Israeli Shekel",
+      "country": "Israel",
+      "exchangeRate": 3.8315
+    },
+    {
+      "currencyCode": "IMP",
+      "currencyName": "Isle of Man Pound",
+      "country": "Isle of Man",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "INR",
+      "currencyName": "Indian Rupee",
+      "country": "India",
+      "exchangeRate": 83.9098
+    },
+    {
+      "currencyCode": "IQD",
+      "currencyName": "Iraqi Dinar",
+      "country": "Iraq",
+      "exchangeRate": 1309.3376
+    },
+    {
+      "currencyCode": "IRR",
+      "currencyName": "Iranian Rial",
+      "country": "Iran",
+      "exchangeRate": 42249.9467
+    },
+    {
+      "currencyCode": "ISK",
+      "currencyName": "Icelandic Krona",
+      "country": "Iceland",
+      "exchangeRate": 136.5235
+    },
+    {
+      "currencyCode": "JEP",
+      "currencyName": "Jersey Pound",
+      "country": "Jersey",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "JMD",
+      "currencyName": "Jamaican Dollar",
+      "country": "Jamaica",
+      "exchangeRate": 154.6584
+    },
+    {
+      "currencyCode": "JOD",
+      "currencyName": "Jordanian Dinar",
+      "country": "Jordan",
+      "exchangeRate": 0.709
+    },
+    {
+      "currencyCode": "JPY",
+      "currencyName": "Japanese Yen",
+      "country": "Japan",
+      "exchangeRate": 145.518
+    },
+    {
+      "currencyCode": "KES",
+      "currencyName": "Kenyan Shilling",
+      "country": "Kenya",
+      "exchangeRate": 145.9673
+    },
+    {
+      "currencyCode": "KGS",
+      "currencyName": "Kyrgyzstani Som",
+      "country": "Kyrgyzstan",
+      "exchangeRate": 89.4842
+    },
+    {
+      "currencyCode": "KHR",
+      "currencyName": "Cambodian Riel",
+      "country": "Cambodia",
+      "exchangeRate": 4155.2035
+    },
+    {
+      "currencyCode": "KID",
+      "currencyName": "Kiribati Dollar",
+      "country": "Kiribati",
+      "exchangeRate": 1.4823
+    },
+    {
+      "currencyCode": "KMF",
+      "currencyName": "Comorian Franc",
+      "country": "Comoros",
+      "exchangeRate": 448.3333
+    },
+    {
+      "currencyCode": "KRW",
+      "currencyName": "South Korean Won",
+      "country": "South Korea",
+      "exchangeRate": 1324.6169
+    },
+    {
+      "currencyCode": "KWD",
+      "currencyName": "Kuwaiti Dinar",
+      "country": "Kuwait",
+      "exchangeRate": 0.3063
+    },
+    {
+      "currencyCode": "KYD",
+      "currencyName": "Cayman Islands Dollar",
+      "country": "Cayman Islands",
+      "exchangeRate": 0.8333
+    },
+    {
+      "currencyCode": "KZT",
+      "currencyName": "Kazakhstani Tenge",
+      "country": "Kazakhstan",
+      "exchangeRate": 460.6236
+    },
+    {
+      "currencyCode": "LAK",
+      "currencyName": "Lao Kip",
+      "country": "Laos",
+      "exchangeRate": 20506.3291
+    },
+    {
+      "currencyCode": "LBP",
+      "currencyName": "Lebanese Pound",
+      "country": "Lebanon",
+      "exchangeRate": 151500.6539
+    },
+    {
+      "currencyCode": "LKR",
+      "currencyName": "Sri Lankan Rupee",
+      "country": "Sri Lanka",
+      "exchangeRate": 322.5884
+    },
+    {
+      "currencyCode": "LRD",
+      "currencyName": "Liberian Dollar",
+      "country": "Liberia",
+      "exchangeRate": 188.0053
+    },
+    {
+      "currencyCode": "LSL",
+      "currencyName": "Lesotho Loti",
+      "country": "Lesotho",
+      "exchangeRate": 18.8772
+    },
+    {
+      "currencyCode": "LYD",
+      "currencyName": "Libyan Dinar",
+      "country": "Libya",
+      "exchangeRate": 4.857
+    },
+    {
+      "currencyCode": "MAD",
+      "currencyName": "Moroccan Dirham",
+      "country": "Morocco",
+      "exchangeRate": 9.8624
+    },
+    {
+      "currencyCode": "MDL",
+      "currencyName": "Moldovan Leu",
+      "country": "Moldova",
+      "exchangeRate": 18.0987
+    },
+    {
+      "currencyCode": "MGA",
+      "currencyName": "Malagasy Ariary",
+      "country": "Madagascar",
+      "exchangeRate": 4480.1038
+    },
+    {
+      "currencyCode": "MKD",
+      "currencyName": "Macedonian Denar",
+      "country": "North Macedonia",
+      "exchangeRate": 55.2953
+    },
+    {
+      "currencyCode": "MMK",
+      "currencyName": "Burmese Kyat",
+      "country": "Myanmar",
+      "exchangeRate": 2100.935
+    },
+    {
+      "currencyCode": "MNT",
+      "currencyName": "Mongolian Tögrög",
+      "country": "Mongolia",
+      "exchangeRate": 3470.8573
+    },
+    {
+      "currencyCode": "MOP",
+      "currencyName": "Macanese Pataca",
+      "country": "Macau",
+      "exchangeRate": 8.0585
+    },
+    {
+      "currencyCode": "MRU",
+      "currencyName": "Mauritanian Ouguiya",
+      "country": "Mauritania",
+      "exchangeRate": 37.7802
+    },
+    {
+      "currencyCode": "MUR",
+      "currencyName": "Mauritian Rupee",
+      "country": "Mauritius",
+      "exchangeRate": 45.2987
+    },
+    {
+      "currencyCode": "MVR",
+      "currencyName": "Maldivian Rufiyaa",
+      "country": "Maldives",
+      "exchangeRate": 15.4198
+    },
+    {
+      "currencyCode": "MWK",
+      "currencyName": "Malawian Kwacha",
+      "country": "Malawi",
+      "exchangeRate": 1110.686
+    },
+    {
+      "currencyCode": "MXN",
+      "currencyName": "Mexican Peso",
+      "country": "Mexico",
+      "exchangeRate": 17.1693
+    },
+    {
+      "currencyCode": "MYR",
+      "currencyName": "Malaysian Ringgit",
+      "country": "Malaysia",
+      "exchangeRate": 4.6245
+    },
+    {
+      "currencyCode": "MZN",
+      "currencyName": "Mozambican Metical",
+      "country": "Mozambique",
+      "exchangeRate": 64.4472
+    },
+    {
+      "currencyCode": "NAD",
+      "currencyName": "Namibian Dollar",
+      "country": "Namibia",
+      "exchangeRate": 18.8772
+    },
+    {
+      "currencyCode": "NGN",
+      "currencyName": "Nigerian Naira",
+      "country": "Nigeria",
+      "exchangeRate": 774.2444
+    },
+    {
+      "currencyCode": "NIO",
+      "currencyName": "Nicaraguan Córdoba",
+      "country": "Nicaragua",
+      "exchangeRate": 36.5863
+    },
+    {
+      "currencyCode": "NOK",
+      "currencyName": "Norwegian Krone",
+      "country": "Norway",
+      "exchangeRate": 10.4475
+    },
+    {
+      "currencyCode": "NPR",
+      "currencyName": "Nepalese Rupee",
+      "country": "Nepal",
+      "exchangeRate": 134.2557
+    },
+    {
+      "currencyCode": "NZD",
+      "currencyName": "New Zealand Dollar",
+      "country": "New Zealand",
+      "exchangeRate": 1.6709
+    },
+    {
+      "currencyCode": "OMR",
+      "currencyName": "Omani Rial",
+      "country": "Oman",
+      "exchangeRate": 0.3845
+    },
+    {
+      "currencyCode": "PAB",
+      "currencyName": "Panamanian Balboa",
+      "country": "Panama",
+      "exchangeRate": 1
+    },
+    {
+      "currencyCode": "PEN",
+      "currencyName": "Peruvian Sol",
+      "country": "Peru",
+      "exchangeRate": 3.6585
+    },
+    {
+      "currencyCode": "PGK",
+      "currencyName": "Papua New Guinean Kina",
+      "country": "Papua New Guinea",
+      "exchangeRate": 3.7224
+    },
+    {
+      "currencyCode": "PHP",
+      "currencyName": "Philippine Peso",
+      "country": "Philippines",
+      "exchangeRate": 56.7994
+    },
+    {
+      "currencyCode": "PKR",
+      "currencyName": "Pakistani Rupee",
+      "country": "Pakistan",
+      "exchangeRate": 288.4925
+    },
+    {
+      "currencyCode": "PLN",
+      "currencyName": "Polish Złoty",
+      "country": "Poland",
+      "exchangeRate": 4.1045
+    },
+    {
+      "currencyCode": "PYG",
+      "currencyName": "Paraguayan Guaraní",
+      "country": "Paraguay",
+      "exchangeRate": 7265.1317
+    },
+    {
+      "currencyCode": "QAR",
+      "currencyName": "Qatari Riyal",
+      "country": "Qatar",
+      "exchangeRate": 3.64
+    },
+    {
+      "currencyCode": "RON",
+      "currencyName": "Romanian Leu",
+      "country": "Romania",
+      "exchangeRate": 4.4488
+    },
+    {
+      "currencyCode": "RSD",
+      "currencyName": "Serbian Dinar",
+      "country": "Serbia",
+      "exchangeRate": 105.0728
+    },
+    {
+      "currencyCode": "RUB",
+      "currencyName": "Russian Ruble",
+      "country": "Russia",
+      "exchangeRate": 94.9986
+    },
+    {
+      "currencyCode": "RWF",
+      "currencyName": "Rwandan Franc",
+      "country": "Rwanda",
+      "exchangeRate": 1241.4399
+    },
+    {
+      "currencyCode": "SAR",
+      "currencyName": "Saudi Riyal",
+      "country": "Saudi Arabia",
+      "exchangeRate": 3.75
+    },
+    {
+      "currencyCode": "SBD",
+      "currencyName": "Solomon Islands Dollar",
+      "country": "Solomon Islands",
+      "exchangeRate": 8.3676
+    },
+    {
+      "currencyCode": "SCR",
+      "currencyName": "Seychellois Rupee",
+      "country": "Seychelles",
+      "exchangeRate": 14.2192
+    },
+    {
+      "currencyCode": "SDG",
+      "currencyName": "Sudanese Pound",
+      "country": "Sudan",
+      "exchangeRate": 600.266
+    },
+    {
+      "currencyCode": "SEK",
+      "currencyName": "Swedish Krona",
+      "country": "Sweden",
+      "exchangeRate": 10.944
+    },
+    {
+      "currencyCode": "SGD",
+      "currencyName": "Singapore Dollar",
+      "country": "Singapore",
+      "exchangeRate": 1.3058
+    },
+    {
+      "currencyCode": "SHP",
+      "currencyName": "Saint Helena Pound",
+      "country": "Saint Helena",
+      "exchangeRate": 0.765
+    },
+    {
+      "currencyCode": "SLE",
+      "currencyName": "Sierra Leonean Leone",
+      "country": "Sierra Leone",
+      "exchangeRate": 20928.4068
+    },
+    {
+      "currencyCode": "SOS",
+      "currencyName": "Somali Shilling",
+      "country": "Somalia",
+      "exchangeRate": 570.1044
+    },
+    {
+      "currencyCode": "SRD",
+      "currencyName": "Surinamese Dollar",
+      "country": "Suriname",
+      "exchangeRate": 38.2876
+    },
+    {
+      "currencyCode": "SSP",
+      "currencyName": "South Sudanese Pound",
+      "country": "South Sudan",
+      "exchangeRate": 970.7344
+    },
+    {
+      "currencyCode": "STN",
+      "currencyName": "São Tomé and Príncipe Dobra",
+      "country": "São Tomé and Príncipe",
+      "exchangeRate": 22.3388
+    },
+    {
+      "currencyCode": "SYP",
+      "currencyName": "Syrian Pound",
+      "country": "Syria",
+      "exchangeRate": 13075.164
+    },
+    {
+      "currencyCode": "SZL",
+      "currencyName": "Eswatini Lilangeni",
+      "country": "Eswatini",
+      "exchangeRate": 18.8772
+    },
+    {
+      "currencyCode": "THB",
+      "currencyName": "Thai Baht",
+      "country": "Thailand",
+      "exchangeRate": 35.1719
+    },
+    {
+      "currencyCode": "TJS",
+      "currencyName": "Tajikistani Somoni",
+      "country": "Tajikistan",
+      "exchangeRate": 10.9813
+    },
+    {
+      "currencyCode": "TMT",
+      "currencyName": "Turkmenistani Manat",
+      "country": "Turkmenistan",
+      "exchangeRate": 3.5098
+    },
+    {
+      "currencyCode": "TND",
+      "currencyName": "Tunisian Dinar",
+      "country": "Tunisia",
+      "exchangeRate": 3.0481
+    },
+    {
+      "currencyCode": "TOP",
+      "currencyName": "Tongan Paʻanga",
+      "country": "Tonga",
+      "exchangeRate": 2.3894
+    },
+    {
+      "currencyCode": "TRY",
+      "currencyName": "Turkish Lira",
+      "country": "Turkey",
+      "exchangeRate": 27.0368
+    },
+    {
+      "currencyCode": "TTD",
+      "currencyName": "Trinidad and Tobago Dollar",
+      "country": "Trinidad and Tobago",
+      "exchangeRate": 6.7897
+    },
+    {
+      "currencyCode": "TVD",
+      "currencyName": "Tuvaluan Dollar",
+      "country": "Tuvalu",
+      "exchangeRate": 1.4823
+    },
+    {
+      "currencyCode": "TWD",
+      "currencyName": "New Taiwan Dollar",
+      "country": "Taiwan",
+      "exchangeRate": 31.899
+    },
+    {
+      "currencyCode": "TZS",
+      "currencyName": "Tanzanian Shilling",
+      "country": "Tanzania",
+      "exchangeRate": 2501.1652
+    },
+    {
+      "currencyCode": "UAH",
+      "currencyName": "Ukrainian Hryvnia",
+      "country": "Ukraine",
+      "exchangeRate": 36.8987
+    },
+    {
+      "currencyCode": "UGX",
+      "currencyName": "Ugandan Shilling",
+      "country": "Uganda",
+      "exchangeRate": 3741.775
+    },
+    {
+      "currencyCode": "USD",
+      "currencyName": "United States Dollar",
+      "country": "United States",
+      "exchangeRate": 1
+    },
+    {
+      "currencyCode": "UYU",
+      "currencyName": "Uruguayan Peso",
+      "country": "Uruguay",
+      "exchangeRate": 38.1387
+    },
+    {
+      "currencyCode": "UZS",
+      "currencyName": "Uzbekistani Soʻm",
+      "country": "Uzbekistan",
+      "exchangeRate": 12120.3386
+    },
+    {
+      "currencyCode": "VES",
+      "currencyName": "Venezuelan Bolívar",
+      "country": "Venezuela",
+      "exchangeRate": 32.7756
+    },
+    {
+      "currencyCode": "VND",
+      "currencyName": "Vietnamese Đồng",
+      "country": "Vietnam",
+      "exchangeRate": 23765.926
+    },
+    {
+      "currencyCode": "VUV",
+      "currencyName": "Vanuatu Vatu",
+      "country": "Vanuatu",
+      "exchangeRate": 120.1376
+    },
+    {
+      "currencyCode": "WST",
+      "currencyName": "Samoan Tala",
+      "country": "Samoa",
+      "exchangeRate": 2.7542
+    },
+    {
+      "currencyCode": "XAF",
+      "currencyName": "Central African CFA Franc",
+      "country": "CEMAC",
+      "exchangeRate": 605.7762
+    },
+    {
+      "currencyCode": "XCD",
+      "currencyName": "East Caribbean Dollar",
+      "country": "Organisation of Eastern Caribbean States",
+      "exchangeRate": 2.7
+    },
+    {
+      "currencyCode": "XOF",
+      "currencyName": "West African CFA Franc",
+      "country": "CFA",
+      "exchangeRate": 605.7762
+    },
+    {
+      "currencyCode": "XPF",
+      "currencyName": "CFP Franc",
+      "country": "Collectivités d'Outre-Mer",
+      "exchangeRate": 113.1073
+    },
+    {
+      "currencyCode": "YER",
+      "currencyName": "Yemeni Rial",
+      "country": "Yemen",
+      "exchangeRate": 250.3511
+    },
+    {
+      "currencyCode": "ZAR",
+      "currencyName": "South African Rand",
+      "country": "South Africa",
+      "exchangeRate": 18.8772
+    },
+    {
+      "currencyCode": "ZMW",
+      "currencyName": "Zambian Kwacha",
+      "country": "Zambia",
+      "exchangeRate": 19.7342
+    },
+    {
+      "currencyCode": "ZWL",
+      "currencyName": "Zimbabwean Dollar",
+      "country": "Zimbabwe",
+      "exchangeRate": 361.9
+    }
+  ]
+}
