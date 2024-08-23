@@ -1,8 +1,10 @@
 import {combineReducers, configureStore} from "@reduxjs/toolkit";
 import {currencyApi} from "../services/CurrencyService.ts";
+import currencyReducer from "./reducers/CurrencySlice.ts";
 
 
 const rootReducer = combineReducers({
+	currencyReducer,
 	[currencyApi.reducerPath]: currencyApi.reducer,
 })
 
