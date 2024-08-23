@@ -1049,12 +1049,6 @@
       "exchangeRate": 3741.775
     },
     {
-      "currencyCode": "USD",
-      "currencyName": "United States Dollar",
-      "country": "United States",
-      "exchangeRate": 1
-    },
-    {
       "currencyCode": "UYU",
       "currencyName": "Uruguayan Peso",
       "country": "Uruguay",
